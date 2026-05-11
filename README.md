@@ -14,7 +14,7 @@ Before using this script, you need to properly configure your domain's DNS recor
 ### Example Configuration
 - **Your domain name**: `example.com`
 - **Your server's IPv4 address**: `203.0.113.2`
-- **Your server's IPv6 address**: `2001:db8::2` (optional)
+- **Your srver's IPv6 address**: `2001:db8::2` (optional)
 - **Tunnel subdomain**: `t.example.com`
 - **Server hostname**: `tns.example.com`
 
